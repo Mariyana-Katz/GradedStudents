@@ -76,14 +76,6 @@
 
 
 
-
-
-
-
-
-
-
-
 <br><br><br><br><br>
 
 * **Define method `getExamScores()`**
